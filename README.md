@@ -1,4 +1,5 @@
 # Step 20 — Interpret the Findings
+[← Previous Step: Conduct Sensitivity Analysis](https://github.com/adnan-mayof/Sensitivity-Analysis/blob/main/README.md)
 
 ## Maya’s Evidence Synthesis Journey
 
