@@ -859,3 +859,15 @@ D. Generalizability determines whether a study is a duplicate
 | 13       | **A**  |
 | 14       | **B**  |
 | 15       | **A**  |
+
+
+## 🚀 Maya's Journey Continues
+
+Maya has now **completed the interpreting the Findings**.
+The next challenge is to Develop Evidence-Based Conclusions
+
+She is now ready to move to:
+
+### Next Step
+
+### **[Step 21 — Develop Evidence-Based Conclusions](https://github.com/adnan-mayof/Develop-Evidence-Based-Conclusions/blob/main/README.md)**
